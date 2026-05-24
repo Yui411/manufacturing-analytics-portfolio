@@ -128,6 +128,8 @@ Raw Sensor Data
 
 ## Dashboard
 
+[View on Tableau Public](https://public.tableau.com/app/profile/bito.yui/viz/Factorydataanalysis/ManufacturingFactoryDashboard?publish=yes)
+
 Built with Tableau Desktop, connected directly to Databricks via Personal Access Token.
 
 ### Views
